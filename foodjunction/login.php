@@ -1,5 +1,5 @@
 <?php
-//This script will handle login
+//This script will handle login yo yo
 session_start();
 
 // check if the user is already logged in
